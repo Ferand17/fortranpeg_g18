@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fortranpeg_g18/static/css/main.f855e6bc.css",
+    "main.js": "/fortranpeg_g18/static/js/main.310c9135.js",
+    "static/js/453.99c39728.chunk.js": "/fortranpeg_g18/static/js/453.99c39728.chunk.js",
+    "static/media/logo.svg": "/fortranpeg_g18/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fortranpeg_g18/index.html",
+    "main.f855e6bc.css.map": "/fortranpeg_g18/static/css/main.f855e6bc.css.map",
+    "main.310c9135.js.map": "/fortranpeg_g18/static/js/main.310c9135.js.map",
+    "453.99c39728.chunk.js.map": "/fortranpeg_g18/static/js/453.99c39728.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.310c9135.js"
+  ]
+}
