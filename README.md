@@ -1,1 +1,1 @@
-# fortranpeg_g18
+# FortranPEG_G18
